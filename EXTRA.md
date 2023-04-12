@@ -4,4 +4,3 @@ Such as this.
 
 and this.
 
-and this. 
