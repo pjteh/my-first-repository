@@ -1,4 +1,3 @@
 # Git basics
 
-## Table of Contents
-- example.txt
+Hello, this is a version on the updateREADME branch.
